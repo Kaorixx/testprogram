@@ -1,1 +1,1 @@
-print{"get out of my code you fucking monkey"}
+print("get out of my code you fucking monkey")
